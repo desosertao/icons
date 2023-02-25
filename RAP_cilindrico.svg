@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="RAP_cilindrico.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.42583145"
+     inkscape:cx="379.25804"
+     inkscape:cy="394.52229"
+     inkscape:window-width="1473"
+     inkscape:window-height="803"
+     inkscape:window-x="332"
+     inkscape:window-y="197"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="ellipse1562"
+       style="fill:#808080;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       d="M 69.391021,13.419116 A 58.480038,26.82167 0 0 0 10.911363,40.240943 58.480038,26.82167 0 0 0 69.391021,67.062771 58.480038,26.82167 0 0 0 127.87068,40.240943 58.480038,26.82167 0 0 0 69.391021,13.419116 Z m -58.538174,40.659883 0.05849,34.169447 c 0,14.813204 26.182021,26.821834 58.479659,26.821834 32.297641,0 58.479661,-12.00863 58.479661,-26.821834 l 0.19162,-33.21717 C 95.1692,90.532921 10.889823,69.363745 10.852825,54.078999 Z" />
+  </g>
+</svg>

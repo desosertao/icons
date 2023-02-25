@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg3089"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="deso1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3091"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.2044332"
+     inkscape:cx="243.26795"
+     inkscape:cy="266.5154"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3086" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       id="path32"
+       d="m 67.219691,8.8683851 c -24.129668,0 -45.894397,14.5433009 -55.127924,36.8358439 -9.2335099,22.292507 -4.12472,47.963362 12.93739,65.025491 17.062111,17.06215 42.732983,22.17088 65.025502,12.93739 C 112.34721,114.43362 126.89047,92.668863 126.8905,68.539194 126.89056,35.603345 100.15554,8.8683851 67.219691,8.8683851 Z m 0,3.2276999 c 31.191537,0 56.443159,25.251575 56.443109,56.443109 -3e-5,22.833494 -13.74858,43.407356 -34.843567,52.144836 -21.094949,8.73744 -45.36319,3.91023 -61.508884,-12.2355 C 11.164656,92.302817 6.3373853,68.034589 15.074864,46.939655 23.812362,25.844676 44.386193,12.096085 67.219691,12.096085 Z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#3ca830;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.969942;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       id="path34"
+       style="fill:#003e90;fill-rule:evenodd;stroke:none;stroke-width:1.03901;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       d="M 252.67578 68.849609 C 232.97946 69.068497 211.68196 71.347377 188.74414 75.988281 C 188.51363 103.78651 188.28138 131.58654 188.04883 159.38477 C 194.10273 163.07611 196.14411 166.75867 196.38867 167.0293 C 197.08358 186.48822 197.7774 205.94732 198.47266 225.40625 L 267.27344 225.40625 C 266.57853 217.52966 267.9978 209.95335 267.30273 202.07812 C 261.74309 201.84591 254.06941 201.31253 248.50977 201.08203 C 233.58355 193.462 236.92265 187.00671 242.81055 180.72266 C 251.51513 171.43154 288.34562 175.45716 306.17188 176.21484 C 319.85472 176.78422 321.96391 188.88321 314.72461 198.0625 C 309.44931 204.74512 298.15531 202.20718 290.20703 202.47266 L 290.20703 226.79492 C 302.81561 226.69167 316.65816 226.9883 329.21289 227.5625 C 391.18154 230.40354 386.11633 309.69444 377.42578 309.53906 C 361.78922 309.25987 346.15219 309.97326 330.51562 310.19141 C 329.5885 305.32667 328.66173 300.46044 327.73633 295.5957 C 324.49397 290.49876 317.07809 288.64728 305.49609 290.03711 C 289.1924 304.37131 271.75995 306.28147 252.67969 290.03711 C 234.37872 290.26762 216.07694 290.50022 197.77734 290.73242 C 197.89258 309.84389 198.00802 328.95494 198.125 348.06641 C 197.39888 350.87247 195.46331 353.83462 189.0918 357.09961 C 189.20703 385.47613 189.32248 413.85456 189.43945 442.23242 C 483.27411 526.14676 548.12058 65.566301 252.67578 68.849609 z M 141.39648 104.31836 C 27.305951 173.06875 44.503477 361.74111 141.29492 415.9707 C 141.01572 396.77384 140.73648 377.57773 140.45898 358.38086 C 136.93709 356.32562 134.53745 353.87792 133.7832 350.86914 L 133.7832 168.91406 C 133.85455 166.37691 134.18116 163.64227 141.29492 162.23633 C 140.73791 142.76025 141.95145 123.79272 141.39648 104.31836 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>
